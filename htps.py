@@ -1,3 +1,4 @@
+#Simple HTTP server
 import SimpleHTTPServer
 
 import SocketServer
